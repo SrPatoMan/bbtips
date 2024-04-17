@@ -1,0 +1,6 @@
+robots.txt
+README.txt
+UPDATE.txt
+sitemap.xml
+crossdomain.xml
+phpinfo.php
