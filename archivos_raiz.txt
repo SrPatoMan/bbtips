@@ -20,6 +20,8 @@ credentials.xml
 logs.xml
 configuration.xml
 users.xml
+wp-config.php
+wp-config.php.bak
 secrets.xml
 
 
