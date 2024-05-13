@@ -10,6 +10,7 @@ backup.tar.gz
 .git
 .svn
 config.php
+config.zip
 settings.php
 error.log
 backup.xml
