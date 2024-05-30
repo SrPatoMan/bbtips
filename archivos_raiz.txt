@@ -29,6 +29,7 @@ config.zip
 settings.php
 error.log
 backup.xml
+osd.xml
 auth.xml
 report.xml
 database.xml
