@@ -39,6 +39,7 @@ nginx.conf
 config.php
 config.zip
 settings.php
+manage-users.php
 error.log
 backup.xml
 auth.xml
