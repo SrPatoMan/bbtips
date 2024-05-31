@@ -28,6 +28,8 @@ Homestead.yaml
 npm-debug.log
 yarn-error.log
 .svn
+debug.log
+playing.php
 sites-available
 sites-enabled
 nginx.conf.d
