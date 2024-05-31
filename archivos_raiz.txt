@@ -1,5 +1,7 @@
 robots.txt
 README.txt
+license.txt
+readme.html
 UPDATE.txt
 sitemap.xml
 crossdomain.xml
@@ -9,6 +11,7 @@ backup.zip
 backup.tar.gz
 .git
 .gitignore
+.user.ini
 .env
 .ENV
 .env.backup
