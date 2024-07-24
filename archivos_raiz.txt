@@ -73,3 +73,13 @@ wp-config.php.save
 wp-config.php~
 wp-config.php.original
 _wpeprivate/config.json
+actuator/env
+actuator/auditevents
+actuator/beans
+actuator/caches
+actuator/configprops
+actuator/health
+actuator/heapdump
+actuator/info
+actuator/integrationgraph
+defaults.env
