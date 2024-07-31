@@ -83,3 +83,5 @@ actuator/heapdump
 actuator/info
 actuator/integrationgraph
 defaults.env
+/.aws/credentials
+/.aws/
