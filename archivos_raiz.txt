@@ -4,6 +4,7 @@ license.txt
 readme.html
 UPDATE.txt
 sitemap.xml
+sitemap.xml.gz
 crossdomain.xml
 phpinfo.php
 .htaccess
