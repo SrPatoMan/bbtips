@@ -1,4 +1,5 @@
 robots.txt
+robotstxt.html
 README.txt
 license.txt
 readme.html
