@@ -14,12 +14,14 @@ backup.tar.gz
 .git
 .svn
 .hg
+.bzr
 .gitignore
 .user.ini
 .env
 .ENV
 .env.backup
 .idea
+_draco
 node_modules
 public/hot
 public/storage
