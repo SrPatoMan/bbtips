@@ -39,7 +39,7 @@ playing.php
 sites-available
 sites-enabled
 nginx.conf.d
-/etc/nginx/
+etc/nginx/
 access.log
 nginx.conf
 config.php
@@ -89,7 +89,9 @@ actuator/heapdump
 actuator/info
 actuator/integrationgraph
 defaults.env
-/.aws/credentials
-/.aws/
+.aws/credentials
+.aws/
 000~ROOT~000
 nginx_status
+haproxy
+netdata
