@@ -21,7 +21,8 @@ backup.tar.gz
 .ENV
 .env.backup
 .idea
-_draco
+_darcs
+Bitkeeper
 node_modules
 public/hot
 public/storage
