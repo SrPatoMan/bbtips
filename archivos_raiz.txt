@@ -92,3 +92,4 @@ defaults.env
 /.aws/credentials
 /.aws/
 000~ROOT~000
+nginx_status
