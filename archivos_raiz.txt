@@ -12,6 +12,8 @@ phpinfo.php
 backup.zip
 backup.tar.gz
 .git
+.svn
+.hg
 .gitignore
 .user.ini
 .env
@@ -29,7 +31,6 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
-.svn
 debug.log
 playing.php
 sites-available
