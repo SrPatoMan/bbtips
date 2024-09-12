@@ -90,6 +90,9 @@ actuator/info
 actuator/integrationgraph
 defaults.env
 .aws/credentials
+auth/jwt/register
+auth-demo/register/classic
+auth-demo/register/modern
 .aws/
 000~ROOT~000
 nginx_status
