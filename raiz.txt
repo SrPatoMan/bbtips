@@ -58,6 +58,7 @@ users.xml
 wp-config.php
 wp-config.php.bak
 secrets.xml
+configurations.xml
 Release.zip
 .ftpconfig
 wp-config.php-backup
