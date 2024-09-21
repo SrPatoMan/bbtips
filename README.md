@@ -1,6 +1,5 @@
-# Diccionarios_Custom
-Diccionarios para fuzzing elaborados por un servidor. 
+# BBTips
+Some stuffs like wordlists collected from #bugbountytips on X. 
 
 
-
-Sientase libre de usarlo. Happy Hacking :)
+Happy Hacking :)
