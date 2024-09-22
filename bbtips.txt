@@ -127,3 +127,15 @@ dump.sql
 mysql.sql
 sql.sql
 temp.sql
+cgi/bin
+cgi-bin/reset.cgi?db_prefix=%26id%26
+common/config.php.new
+config.php.new
+.gitlab-ci.yml
+phpldapadmin/cmd.php
+env/.config
+.env/config
+ganglia/
+BES_MTN/settings.py
+ramp_core.js
+assets/config.js
