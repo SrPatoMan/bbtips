@@ -139,3 +139,4 @@ ganglia/
 BES_MTN/settings.py
 ramp_core.js
 assets/config.js
+test.aspx
