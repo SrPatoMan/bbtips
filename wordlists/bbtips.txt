@@ -328,3 +328,4 @@ phpMyAdminold/
 phpMyAdmins/
 sql/myadmin/
 sql/php-myadmin/
+phpmeadmin/
