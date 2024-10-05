@@ -1,7 +1,10 @@
 robots.txt
 robotstxt.html
+readme.txt
 README.txt
 license.txt
+LICENSE.txt
+.well-known/
 readme.html
 UPDATE.txt
 sitemap.xml
