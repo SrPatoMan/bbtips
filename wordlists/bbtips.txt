@@ -62,6 +62,14 @@ access.log
 nginx.conf
 config.php
 config.zip
+config.rar
+config.7z
+config.txt
+config
+config.js
+config.json
+config.jsp
+config.html
 settings.php
 manage-users.php
 error.log
