@@ -362,3 +362,5 @@ sql/php-myadmin/
 phpmeadmin/
 admin
 Admin
+Trace.axd
+aspnet_client/system_web/
