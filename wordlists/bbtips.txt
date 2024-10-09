@@ -10,6 +10,11 @@ UPDATE.txt
 sitemap.xml
 sitemap.xml.gz
 crossdomain.xml
+web.config
+web.conf
+web.cfg
+web.ini
+appsettings.json
 phpinfo.php
 .htaccess
 backup.zip
@@ -355,3 +360,5 @@ phpMyAdmins/
 sql/myadmin/
 sql/php-myadmin/
 phpmeadmin/
+admin
+Admin
