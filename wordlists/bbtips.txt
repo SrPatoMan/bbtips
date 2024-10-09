@@ -10,6 +10,8 @@ UPDATE.txt
 sitemap.xml
 sitemap.xml.gz
 crossdomain.xml
+connectionstrings.config
+global.asax
 web.config
 web.conf
 web.cfg
