@@ -19,6 +19,9 @@ web.ini
 appsettings.json
 phpinfo.php
 phpinfo
+appsettings.config
+machine.config
+machine.json
 .htaccess
 backup.zip
 backup.tar.gz
