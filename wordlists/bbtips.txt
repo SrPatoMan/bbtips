@@ -160,6 +160,7 @@ dump.sql
 mysql.sql
 sql.sql
 temp.sql
+cgi
 cgi/bin
 cgi-bin/reset.cgi?db_prefix=%26id%26
 common/config.php.new
