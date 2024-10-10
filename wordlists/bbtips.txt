@@ -18,6 +18,7 @@ web.cfg
 web.ini
 appsettings.json
 phpinfo.php
+phpinfo
 .htaccess
 backup.zip
 backup.tar.gz
