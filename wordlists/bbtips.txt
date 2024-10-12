@@ -64,6 +64,7 @@ Homestead.yaml
 npm-debug.log
 yarn-error.log
 debug.log
+.gitlab-ci.yml
 playing.php
 sites-available
 sites-enabled
