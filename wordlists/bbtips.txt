@@ -390,3 +390,5 @@ CVS/Loginfo
 CVS/Editinfo
 CVS/History
 CVS/Modules
+_vti_pvt/service.cnf
+service.cnf
