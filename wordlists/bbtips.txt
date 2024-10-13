@@ -6,6 +6,8 @@ license.txt
 LICENSE.txt
 .well-known/
 readme.html
+rootlogin.asp
+rootlogin.asp.old
 UPDATE.txt
 sitemap.xml
 sitemap.xml.gz
