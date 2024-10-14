@@ -25,6 +25,8 @@ appsettings.config
 machine.config
 machine.json
 .htaccess
+package.json
+yarn.lock
 backup.zip
 backup.tar.gz
 .git-rewrite
