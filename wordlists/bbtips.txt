@@ -25,6 +25,7 @@ appsettings.config
 machine.config
 machine.json
 .htaccess
+.npmrc
 package.json
 yarn.lock
 backup.zip
