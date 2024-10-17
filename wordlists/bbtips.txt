@@ -395,3 +395,7 @@ CVS/History
 CVS/Modules
 _vti_pvt/service.cnf
 service.cnf
+yahoo_site_admin/credentials/db.conf
+yahoo_site_admin/
+credentials/
+db.conf
