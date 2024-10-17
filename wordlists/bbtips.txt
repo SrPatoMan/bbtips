@@ -399,3 +399,5 @@ yahoo_site_admin/credentials/db.conf
 yahoo_site_admin/
 credentials/
 db.conf
+js/admin.js
+admin.js
