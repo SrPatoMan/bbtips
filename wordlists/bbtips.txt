@@ -408,3 +408,4 @@ elmah
 elmah.axd
 Swagger-ui/
 swagger-ui/
+actuator/
