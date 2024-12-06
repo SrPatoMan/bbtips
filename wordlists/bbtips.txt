@@ -409,6 +409,7 @@ elmah.axd
 Swagger-ui/
 swagger-ui/
 actuator/
-vstorage
+vstorage/
+releases/
 serviceAccountCredentials.json
 appsettings.json
