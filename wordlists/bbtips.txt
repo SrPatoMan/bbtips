@@ -408,8 +408,13 @@ elmah
 elmah.axd
 Swagger-ui/
 swagger-ui/
+swagger-ui.json
+openapi/
+openapi.json
 actuator/
 vstorage/
 releases/
 serviceAccountCredentials.json
 appsettings.json
+swagger.yaml
+openapi.yaml
