@@ -418,3 +418,5 @@ serviceAccountCredentials.json
 appsettings.json
 swagger.yaml
 openapi.yaml
+api/
+api-docs/
