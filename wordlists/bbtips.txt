@@ -420,3 +420,4 @@ swagger.yaml
 openapi.yaml
 api/
 api-docs/
+ui/
