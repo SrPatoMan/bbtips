@@ -96,6 +96,7 @@ report.xml
 database.xml
 credentials.xml
 logs.xml
+logs.txt
 configuration.xml
 users.xml
 wp-config.php
