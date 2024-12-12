@@ -422,3 +422,4 @@ openapi.yaml
 api/
 api-docs/
 ui/
+dashboard/
