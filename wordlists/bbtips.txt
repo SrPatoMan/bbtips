@@ -426,3 +426,6 @@ api/
 api-docs/
 ui/
 dashboard/
+console.php
+internal/
+dev/
