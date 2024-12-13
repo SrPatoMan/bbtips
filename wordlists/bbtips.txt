@@ -179,6 +179,9 @@ common/config.php.new
 config.php.new
 .gitlab-ci.yml
 phpldapadmin/cmd.php
+phpldapadmin/index.php
+phpldapadmin/
+cmd.php
 env/.config
 .env/config
 ganglia/
