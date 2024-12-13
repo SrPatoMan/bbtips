@@ -55,6 +55,8 @@ backup.tar.gz
 .ENV
 .env.backup
 .idea
+.vscode
+vscode/
 _darcs
 Bitkeeper
 node_modules
