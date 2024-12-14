@@ -1,0 +1,7 @@
+###### BROWSER EXTENSION TO DO BUG BOUNTY / PENTESTING ######
+
+1- Wappalyzer
+2- FoxyProxy
+3- EditThisCookie
+4- LinkGopher
+5- DotGit
