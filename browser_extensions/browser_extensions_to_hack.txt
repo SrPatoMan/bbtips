@@ -5,3 +5,5 @@
 3- EditThisCookie
 4- LinkGopher
 5- DotGit
+6- Shodan
+7- Trufflehog
