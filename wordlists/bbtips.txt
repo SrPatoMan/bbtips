@@ -431,3 +431,6 @@ dashboard/
 console.php
 internal/
 dev/
+config/
+install.php
+install.lock
