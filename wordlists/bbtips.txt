@@ -412,6 +412,8 @@ atom.xml
 server-status/
 elmah
 elmah.axd
+Swagger
+swagger/
 Swagger-ui/
 swagger-ui/
 swagger-ui.json
