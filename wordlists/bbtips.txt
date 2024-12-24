@@ -438,3 +438,11 @@ install.php
 install.lock
 403.php
 401.php
+main.py
+module.py
+module/__init__.py
+modules/__init__.py
+__init__.py
+config.ini
+project.wsgi
+manager/
