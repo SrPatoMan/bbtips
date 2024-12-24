@@ -436,3 +436,5 @@ dev/
 config/
 install.php
 install.lock
+403.php
+401.php
