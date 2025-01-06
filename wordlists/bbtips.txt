@@ -25,6 +25,9 @@ appsettings.config
 machine.config
 machine.json
 .htaccess
+.htaccess.bak
+.htpasswd
+.htpasswd.bak
 .npmrc
 package.json
 yarn.lock
@@ -78,6 +81,7 @@ sites-enabled
 nginx.conf.d
 etc/nginx/
 access.log
+access_log
 nginx.conf
 config.php
 config.zip
@@ -97,6 +101,7 @@ auth.xml
 report.xml
 database.xml
 credentials.xml
+logs/
 logs.xml
 logs.txt
 configuration.xml
@@ -446,3 +451,5 @@ __init__.py
 config.ini
 project.wsgi
 manager/
+.web
+.meta
