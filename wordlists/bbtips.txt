@@ -20,6 +20,8 @@ web.cfg
 web.ini
 appsettings.json
 phpinfo.php
+info.php
+admin.php
 phpinfo/
 appsettings.config
 machine.config
@@ -426,6 +428,11 @@ swagger/
 Swagger-ui/
 swagger-ui/
 swagger-ui.json
+swagger-ui.html
+swagger/swagger-ui.html
+api/swagger-ui.html
+v1.x/swagger-ui.html
+swagger/index.html
 openapi/
 openapi.json
 actuator/
@@ -436,6 +443,8 @@ settings.json
 swagger.yaml
 openapi.yaml
 api/
+api/v1/
+api/v2/
 api-docs/
 ui/
 dashboard/
@@ -515,3 +524,10 @@ backup/
 old/
 admin123.php
 admin123/
+api/apidocs
+apidocs/
+v2/
+security.txt
+application.wadl
+graphql/
+graphiql/
