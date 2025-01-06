@@ -154,6 +154,7 @@ netdata
 _vti_pvt/service.pwd
 app/config/config.local.neon
 app/etc/local.xml
+local.xml
 servudaemon.ini
 master.passwd/master.passwd.txt
 local_settings.py
@@ -430,7 +431,7 @@ actuator/
 vstorage/
 releases/
 serviceAccountCredentials.json
-appsettings.json
+settings.json
 swagger.yaml
 openapi.yaml
 api/
@@ -451,6 +452,7 @@ module/__init__.py
 modules/__init__.py
 __init__.py
 config.ini
+config.yaml
 project.wsgi
 manager/
 .web
@@ -461,3 +463,7 @@ version.json
 .bash_history
 .zshrc
 .zsh_history
+/config/database.yml
+database.yaml
+db_dump.sql
+db_dump.sqlite
