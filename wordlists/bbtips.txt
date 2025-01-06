@@ -415,6 +415,8 @@ js/admin.js
 admin.js
 atom.xml
 server-status/
+server-info/
+status/
 elmah
 elmah.axd
 Swagger
@@ -453,3 +455,9 @@ project.wsgi
 manager/
 .web
 .meta
+printenv/
+version.json
+.bashrc
+.bash_history
+.zshrc
+.zsh_history
