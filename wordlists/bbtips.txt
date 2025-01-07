@@ -4,6 +4,7 @@ readme.txt
 README.txt
 license.txt
 LICENSE.txt
+humans.txt
 .well-known/
 readme.html
 rootlogin.asp
