@@ -553,3 +553,14 @@ dump.sql
 mysql.sql
 sql.sql
 temp.sql
+#/satélites/
+#/base-mode/
+#/correction-input/
+#/correction-output/
+#/logging/
+#/bluethoot/
+#/gnss-settings/
+#/position-streaming-1/
+#/position-streaming-2/
+#/general/receiver/
+satellites/
