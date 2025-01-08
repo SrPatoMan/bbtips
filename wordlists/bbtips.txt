@@ -577,6 +577,9 @@ web/session/authenticate/
 web/session/logout/
 web/session/modules/
 web/database/
+web/content/
+web/binary/
+web/content/media/
 database/
 web.xml
 default.properties
