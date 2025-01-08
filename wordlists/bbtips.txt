@@ -564,3 +564,6 @@ temp.sql
 #/position-streaming-2/
 #/general/receiver/
 satellites/
+ycs/
+ycs/index.html
+ycs/index.htm
