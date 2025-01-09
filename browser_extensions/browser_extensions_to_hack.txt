@@ -8,3 +8,8 @@
 6- Shodan
 7- Trufflehog
 8- FindSomething
+
+
+*** Only Chrome ***
+
+1- Save All Resources
