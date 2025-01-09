@@ -622,3 +622,6 @@ sap/bc/webdynpro/sap/admin_console
 sap/bc/webdynpro/sap/diagnostics
 sap/bc
 sap/bc/gui
+getAppConfig.json
+appconfig.json
+AppConfig.json
