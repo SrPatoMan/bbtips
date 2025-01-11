@@ -830,3 +830,4 @@ system_administration/
 ss_vms_admin_sm/
 application.properties/application.yml
 spring.xml
+v2/.env
