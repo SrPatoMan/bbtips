@@ -828,3 +828,5 @@ database_administration/
 power_user/  
 system_administration/  
 ss_vms_admin_sm/
+application.properties/application.yml
+spring.xml
