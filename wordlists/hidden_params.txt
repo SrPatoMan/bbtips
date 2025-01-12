@@ -2,3 +2,5 @@ __locale__
 back_url
 source
 page_id
+page
+pages
