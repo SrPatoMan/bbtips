@@ -831,3 +831,13 @@ ss_vms_admin_sm/
 application.properties/application.yml
 spring.xml
 v2/.env
+settings.py
+config/parameters.yml
+parameters.yaml
+cheatset
+common/config.php.new
+config.php.new
+config/const.DB.php.bak
+docker-compose.yml
+assets/env.js
+services/data
