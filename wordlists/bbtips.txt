@@ -841,3 +841,4 @@ config/const.DB.php.bak
 docker-compose.yml
 assets/env.js
 services/data
+plesk-stat
