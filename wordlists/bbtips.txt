@@ -842,3 +842,10 @@ docker-compose.yml
 assets/env.js
 services/data
 plesk-stat
+travis.yml
+.travis.yml
+default.json
+secrets.yml
+environment.ts
+environment.js
+env.js
