@@ -827,3 +827,4 @@ Credentials.json
 credentials.yml
 credentials.yaml
 credentials.txt
+php.ini
