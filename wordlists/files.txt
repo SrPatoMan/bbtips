@@ -1,0 +1,14 @@
+credentials
+password
+pass
+pwd
+passwd
+tokens
+token
+keys
+key
+backup
+old
+back
+config
+conf
