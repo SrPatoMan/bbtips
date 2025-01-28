@@ -11,4 +11,7 @@ backup
 old
 back
 config
+configuration
 conf
+log
+logs
