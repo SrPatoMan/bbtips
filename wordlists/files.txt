@@ -15,3 +15,8 @@ configuration
 conf
 log
 logs
+user
+users
+admin
+admins
+administrator
