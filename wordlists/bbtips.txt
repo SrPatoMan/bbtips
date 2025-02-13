@@ -828,3 +828,6 @@ credentials.yml
 credentials.yaml
 credentials.txt
 php.ini
+solr
+Solr
+solr/select?q=test
