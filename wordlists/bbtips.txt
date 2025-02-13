@@ -831,3 +831,4 @@ php.ini
 solr
 Solr
 solr/select?q=test
+backup.tar.gz
