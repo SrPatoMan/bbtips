@@ -355,7 +355,10 @@ directadmin/
 docker-compose.yml
 dump.sql
 elmah
+Elmah.axd
 elmah.axd
+Errorlog.axd
+errorlog.axd
 env.js
 env/.config
 environment.js
