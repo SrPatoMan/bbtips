@@ -837,3 +837,17 @@ solr
 Solr
 solr/select?q=test
 backup.tar.gz
+vpn
+/vpn/index.html
+/vpn/login.asp
+/vpn/tmindex.html
+/vpns/portal/scripts/rmbm.pl
+/cgi/login
+/cgi/logout
+/cgi/setclient?wica
+/menu/stmfs.json
+/logon/LogonPoint/tmindex.html
+/logon/LogonPoint/index.html
+/vpn/js/gateway_login_view.js
+/vpn/serverinfo
+/vpn/api/login
