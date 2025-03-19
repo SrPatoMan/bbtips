@@ -851,3 +851,4 @@ vpn
 /vpn/js/gateway_login_view.js
 /vpn/serverinfo
 /vpn/api/login
+assets/capacitor.config.json 
