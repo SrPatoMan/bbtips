@@ -94,6 +94,7 @@ LICENSE.txt
 LiveUser_Admin/  
 Lotus_Domino_Admin/  
 README.txt
+README.md
 Release.zip
 SAPLogon.ini
 Server.asp  
