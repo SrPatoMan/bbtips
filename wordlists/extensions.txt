@@ -1,5 +1,6 @@
 php
 inc
+inc.php
 conf
 config
 ini
