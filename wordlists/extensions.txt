@@ -13,6 +13,10 @@ zip
 rar
 tar
 tar.gz
+old
+bak
+original
 txt
 md
 MD
+sql
