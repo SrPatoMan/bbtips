@@ -384,6 +384,7 @@ hpwebjetadmin/
 humans.txt
 info.php
 install.lock
+composer.lock
 install.php
 internal/
 irc-macadmin/  
