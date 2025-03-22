@@ -1,0 +1,17 @@
+php
+inc
+conf
+config
+ini
+xml
+yaml
+yml
+json
+zip
+7z
+rar
+tar
+tar.gz
+txt
+md
+MD
