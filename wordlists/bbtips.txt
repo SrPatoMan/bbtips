@@ -385,6 +385,9 @@ humans.txt
 info.php
 install.lock
 composer.lock
+composer.json
+webpack.config.js
+babel.config.js
 install.php
 internal/
 irc-macadmin/  
