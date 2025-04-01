@@ -392,6 +392,7 @@ install.php
 internal
 inc
 include
+includes
 irc-macadmin
 irj/portal
 js/admin.js
