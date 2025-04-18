@@ -885,3 +885,7 @@ js/digests.js
 js/tokens.js
 js/cookies.js
 js/topsecr3tdonotlook.js
+proxy_pass
+Documentation/
+documentation/
+DOCUMENTATION/
