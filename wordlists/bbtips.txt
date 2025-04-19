@@ -899,3 +899,11 @@ pagespeed_message/
 pagespeed_console/
 pagespeed_statistics/
 pagespeed_beacon/
+nextcloud/index.php/login
+nextcloud/
+nextcloud/status.php
+nextcloud/ocs/v2.php/apps/
+nextcloud/remote.php/webdav/
+nextcloud/index.php/apps/files/
+nextcloud/index.php/settings/
+cloud/
