@@ -885,7 +885,11 @@ js/digests.js
 js/tokens.js
 js/cookies.js
 js/topsecr3tdonotlook.js
-proxy_pass
+proxy_pass/
 Documentation/
 documentation/
 DOCUMENTATION/
+processed/
+processed/syslog-tcp-forward.conf
+processed/config.ini
+
