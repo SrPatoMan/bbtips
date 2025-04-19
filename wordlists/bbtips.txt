@@ -892,4 +892,10 @@ DOCUMENTATION/
 processed/
 processed/syslog-tcp-forward.conf
 processed/config.ini
-
+pagespeed/
+pagespeed_admin/
+pagespeed_global_admin/
+pagespeed_message/
+pagespeed_console/
+pagespeed_statistics/
+pagespeed_beacon/
