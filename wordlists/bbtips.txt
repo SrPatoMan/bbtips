@@ -17,7 +17,7 @@
 .env
 .env.backup
 .env/config
-.ftpconfig
+.ftpconfiguser/login
 .git
 .git-rewrite
 .git/HEAD
@@ -61,6 +61,7 @@
 2phpmyadmin/
 3phpmyadmin/
 3rdparty/phpMyAdmin/
+3rdparty/
 401.php
 403.php
 4phpmyadmin/
@@ -243,6 +244,7 @@ appsettings.config
 appsettings.json
 aspnet_client
 aspnet_client/system_web
+assets/
 assets/config.js
 assets/env.js
 atom.xml
@@ -423,6 +425,12 @@ maintenance.php
 maintenance/
 manage-users.php
 manager/
+cgi-sys/defaultwebpage.cgi
+cgi-sys/suspendedpage.cgi
+roundcube/
+horde/
+whm/
+webmail/
 manuallogin/  
 master.passwd/master.passwd.txt
 members/  
@@ -907,3 +915,11 @@ nextcloud/remote.php/webdav/
 nextcloud/index.php/apps/files/
 nextcloud/index.php/settings/
 cloud/
+user/login/
+user/sign_up/
+explore/repos/
+explore/organizations/
+repo-name/
+username/repo-name/
+username/repo-name/issues/
+username/repo-name/pulls/
