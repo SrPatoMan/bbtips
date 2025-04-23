@@ -139,6 +139,8 @@ actuator/health
 actuator/heapdump
 actuator/info
 actuator/integrationgraph
+www.zip
+index.php~
 adm/  
 admin.asp  
 admin.html  
@@ -255,6 +257,7 @@ auth/jwt/register
 autologin/  
 back.sql
 backup.sql
+backup.tar
 backup.tar.gz
 backup.xml
 backup.zip
@@ -850,11 +853,10 @@ credentials.yml
 credentials.yaml
 credentials.txt
 php.ini
-solr
-Solr
+solr/
+Solr/
 solr/select?q=test
-backup.tar.gz
-vpn
+vpn/
 /vpn/index.html
 /vpn/login.asp
 /vpn/tmindex.html
