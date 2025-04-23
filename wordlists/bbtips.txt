@@ -1,13 +1,3 @@
-#/base-mode/
-#/bluethoot/
-#/correction-input/
-#/correction-output/
-#/general/receiver/
-#/gnss-settings/
-#/logging/
-#/position-streaming-1/
-#/position-streaming-2/
-#/satélites/
 .ENV
 .aws/
 .aws/credentials
@@ -479,6 +469,7 @@ package.json
 panel/
 panel/  
 parameters.yaml
+parameters.yml
 passwd/
 pgadmin/  
 php-myadmin/
