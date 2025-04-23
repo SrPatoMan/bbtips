@@ -741,6 +741,7 @@ swagger-ui.json
 swagger-ui/
 swagger.yaml
 swagger/
+swagger.json
 swagger/index.html
 swagger/swagger-ui.html
 sys-admin/  
