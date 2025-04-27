@@ -917,3 +917,8 @@ repo-name/
 username/repo-name/
 username/repo-name/issues/
 username/repo-name/pulls/
+_next/data/
+_next/static/
+_next/static/chunks/
+_next/static/media/
+pages/api/
