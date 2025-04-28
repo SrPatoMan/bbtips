@@ -260,6 +260,7 @@ bigadmin
 bkup/phpmyadmin
 blog/phpmyadmin
 blogindex
+crud.php
 cPanel
 cpanel
 cache
