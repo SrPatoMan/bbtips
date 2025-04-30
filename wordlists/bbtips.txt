@@ -923,3 +923,12 @@ _next/static/
 _next/static/chunks/
 _next/static/media/
 pages/api/
+main.min.js.map
+main.chunk.js
+main.chunk.js.map
+sw.js
+firebase/
+_firebase/
+__firebase/
+__firebase/init.js
+sourceMappingURL=*.map
