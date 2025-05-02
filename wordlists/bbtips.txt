@@ -129,6 +129,9 @@ actuator/health
 actuator/heapdump
 actuator/info
 actuator/integrationgraph
+app_dev.php
+_profiler
+app_dev.php/_profiler
 www.zip
 index.php~
 adm/  
