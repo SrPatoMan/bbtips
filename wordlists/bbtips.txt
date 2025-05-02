@@ -129,9 +129,6 @@ actuator/health
 actuator/heapdump
 actuator/info
 actuator/integrationgraph
-app_dev.php
-_profiler
-app_dev.php/_profiler
 www.zip
 index.php~
 adm/  
@@ -231,6 +228,10 @@ api/v2/
 apidocs/
 app/config/config.local.neon
 app/etc/local.xml
+app_dev.php
+_profiler
+_profiler/empty/search/results?limit=10
+app_dev/
 app_dev.php/_profiler/open?file=app/config/parameters.yml
 appconfig.json
 application.properties/application.yml
