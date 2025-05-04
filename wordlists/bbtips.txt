@@ -936,3 +936,8 @@ _firebase/
 __firebase/
 __firebase/init.js
 sourceMappingURL=*.map
+vectors/
+v1/query/
+indexes/
+collections/
+search/
