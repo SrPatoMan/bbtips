@@ -941,3 +941,4 @@ v1/query/
 indexes/
 collections/
 search/
+WebResource.axd
