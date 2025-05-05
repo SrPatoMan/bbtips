@@ -129,6 +129,8 @@ actuator/health
 actuator/heapdump
 actuator/info
 actuator/integrationgraph
+actuator/prometheus
+prometheus/
 www.zip
 index.php~
 adm/  
