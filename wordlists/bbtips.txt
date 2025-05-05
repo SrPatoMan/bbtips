@@ -8,6 +8,8 @@
 .env.backup
 .env/config
 .ftpconfiguser/login
+.github/
+.github/workflows/puch.yml
 .git
 .git-rewrite
 .git/HEAD
@@ -35,6 +37,7 @@
 .phpunit.result.cache
 .svn
 .svn/entries
+.svn/wc.db
 .svnignore
 .travis.yml
 .user.ini
@@ -47,6 +50,7 @@
 /config/database.yml
 /wp-json/wp/v2/users/
 000~ROOT~000
+home/000~ROOT~000
 1phpmyadmin/
 2phpmyadmin/
 3phpmyadmin/
@@ -227,6 +231,7 @@ api/schema/
 api/swagger-ui.html
 api/v1/
 api/v2/
+api/.env
 apidocs/
 app/config/config.local.neon
 app/etc/local.xml
@@ -737,7 +742,7 @@ staradmin/
 status/
 storage/*.key
 storage/logs/laravel.log
-sub-login/  
+sub-login/
 support_login/  
 swagger-ui.html
 swagger-ui.json
@@ -939,6 +944,7 @@ firebase/
 _firebase/
 __firebase/
 __firebase/init.js
+__/firebase/init.json
 sourceMappingURL=*.map
 vectors/
 v1/query/
@@ -947,3 +953,15 @@ collections/
 search/
 WebResource.axd
 nohup.out
+api/geojson
+config.codekit
+ariang/
+aria2ng/
+unstable/
+axis2/axis2-web/HappyAxis.jsp
+xprober.php
+info/
+v1/info
+SOGo
+metrics
+analytics/
