@@ -1,0 +1,9 @@
+bak
+backup
+zip
+rar
+7z
+gz
+tar.gz
+old
+original
