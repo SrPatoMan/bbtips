@@ -249,6 +249,7 @@ atom.xml
 auth-demo/register/classic
 auth-demo/register/modern
 auth.xml
+auth.json
 auth/jwt/register
 autologin/  
 back.sql
