@@ -1,3 +1,5 @@
+auth
+authentication
 credentials
 password
 pass
