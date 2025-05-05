@@ -945,3 +945,4 @@ indexes/
 collections/
 search/
 WebResource.axd
+nohup.out
