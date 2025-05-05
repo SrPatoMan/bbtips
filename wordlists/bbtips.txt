@@ -272,6 +272,7 @@ cpanel
 cache
 cadmins
 ccp14admin
+content.zip
 cgi
 cgi-bin/
 cgi-bin/admin.cgi
