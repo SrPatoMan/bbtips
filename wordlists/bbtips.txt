@@ -969,4 +969,4 @@ v1/info
 SOGo
 metrics
 analytics/
-launcher.json
+launch.json
