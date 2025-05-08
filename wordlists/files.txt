@@ -20,6 +20,7 @@ configurations
 conf
 log
 logs
+launcher
 user
 users
 admin
