@@ -21,6 +21,7 @@ conf
 log
 logs
 launcher
+launch
 user
 users
 admin
