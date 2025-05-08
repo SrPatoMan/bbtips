@@ -2,6 +2,7 @@ auth
 authentication
 credentials
 password
+private
 pass
 pwd
 passwd
@@ -12,6 +13,7 @@ key
 backup
 old
 back
+confidential
 config
 configuration
 configurations
@@ -25,6 +27,12 @@ admins
 administrator
 secret
 secrets
+site
+source
+web
+webapp
+mobile
+desktop
 confidential
 dev
 developer
