@@ -1,0 +1,6 @@
+txt
+yaml
+yml
+xml
+json
+toml

@@ -970,3 +970,4 @@ SOGo
 metrics
 analytics/
 launch.json
+download/
