@@ -1,0 +1,9 @@
+md
+txt
+docs
+doc
+docx
+pdf
+xls
+xlsx
+ppt
