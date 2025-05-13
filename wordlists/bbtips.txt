@@ -432,6 +432,8 @@ maintenance.php
 maintenance/
 manage-users.php
 manager/
+manager/html
+..;/manager/html
 cgi-sys/defaultwebpage.cgi
 cgi-sys/suspendedpage.cgi
 roundcube/
