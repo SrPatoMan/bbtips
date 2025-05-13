@@ -971,3 +971,4 @@ metrics
 analytics/
 launch.json
 download/
+api/v4/projects
