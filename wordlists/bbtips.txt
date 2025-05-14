@@ -946,6 +946,7 @@ main.min.js.map
 main.chunk.js
 main.chunk.js.map
 sw.js
+firebaseConfig
 firebase/
 _firebase/
 __firebase/
@@ -986,3 +987,4 @@ edge-middleware.js
 api/graphql
 .vercel/output/functions.json
 .vercel/
+process.env.NEXT_PUBLIC_* 
