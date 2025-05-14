@@ -974,3 +974,7 @@ analytics/
 launch.json
 download/
 api/v4/projects
+pdfjs/web/viewer.html
+pdfjs/
+lib/pdfjs/
+js/pdfjs/
