@@ -987,4 +987,5 @@ edge-middleware.js
 api/graphql
 .vercel/output/functions.json
 .vercel/
-process.env.NEXT_PUBLIC_* 
+process.env.NEXT_PUBLIC_*
+v1/legacy/
