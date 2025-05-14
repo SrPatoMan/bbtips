@@ -978,3 +978,7 @@ pdfjs/web/viewer.html
 pdfjs/
 lib/pdfjs/
 js/pdfjs/
+Telerik.Web.UI.WebResource.axd
+Telerik.Web.UI.DialogHandler.aspx
+arcgis/rest/services/Utilities/Geometry/GeometryServer
+server/rest/services/Utilities/Geometry/GeometryServer/generalize
