@@ -990,3 +990,10 @@ api/graphql
 .vercel/
 process.env.NEXT_PUBLIC_*
 v1/legacy/
+wp/
+wp/idx_config/WordPress.txt
+wp/idx_config/easywayp-WordPress.txt
+wordpress.txt
+jenkins/
+Jenkinsfile
+buildPasswordreset.xml
