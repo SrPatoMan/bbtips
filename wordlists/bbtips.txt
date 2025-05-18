@@ -997,3 +997,6 @@ wordpress.txt
 jenkins/
 Jenkinsfile
 buildPasswordreset.xml
+lang/
+lang/web_config
+log.txt
