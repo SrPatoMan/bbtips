@@ -673,6 +673,7 @@ readme.html
 readme.txt
 releases/
 report.xml
+robots
 robots.txt
 robotstxt.html
 rootlogin.asp
