@@ -947,6 +947,7 @@ main.min.js.map
 main.chunk.js
 main.chunk.js.map
 sw.js
+firebaseConfig
 firebase/
 _firebase/
 __firebase/
@@ -983,3 +984,9 @@ Telerik.Web.UI.WebResource.axd
 Telerik.Web.UI.DialogHandler.aspx
 arcgis/rest/services/Utilities/Geometry/GeometryServer
 server/rest/services/Utilities/Geometry/GeometryServer/generalize
+edge-middleware.js
+api/graphql
+.vercel/output/functions.json
+.vercel/
+process.env.NEXT_PUBLIC_*
+v1/legacy/
