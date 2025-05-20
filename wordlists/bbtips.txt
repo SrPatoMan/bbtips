@@ -135,6 +135,7 @@ actuator/heapdump
 actuator/info
 actuator/integrationgraph
 actuator/prometheus
+actuator/trace
 prometheus/
 www.zip
 index.php~
