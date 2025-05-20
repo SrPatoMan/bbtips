@@ -124,6 +124,7 @@ account.php
 accounts.sql
 acct_login/  
 actuator/
+actuator/metrics
 actuator/auditevents
 actuator/beans
 actuator/caches
@@ -241,7 +242,9 @@ _profiler/empty/search/results?limit=10
 app_dev/
 app_dev.php/_profiler/open?file=app/config/parameters.yml
 appconfig.json
+application.properties/
 application.properties/application.yml
+application.yml
 application.wadl
 appsettings.config
 appsettings.json
@@ -1002,3 +1005,11 @@ lang/web_config
 log.txt
 ~spam/
 ~spam/ecomm.sql.bz2
+WEB-INF/web.xml
+WEB-INF/
+WEB-INF/classes/*.class
+WEB-INF/classes/
+META-INF/
+META-INF/context.xml
+.DS_Store
+admin/
