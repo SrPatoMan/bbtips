@@ -6,4 +6,5 @@ docx
 pdf
 xls
 xlsx
+csv
 ppt
