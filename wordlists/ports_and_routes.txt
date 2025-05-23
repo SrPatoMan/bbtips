@@ -1,0 +1,16 @@
+3000
+3000/dashboards/home
+3000/datasources
+3000/login
+8443
+8080
+8080/dashboard
+8080/h2-console
+8081
+8082
+8082/login.jsp
+8001
+8978
+9090
+9100/metrics
+19071

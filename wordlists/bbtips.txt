@@ -90,6 +90,7 @@ LiveUser_Admin/
 Lotus_Domino_Admin/  
 README.txt
 README.md
+CHANGELOG.md
 Release.zip
 SAPLogon.ini
 Server.asp  
@@ -137,6 +138,7 @@ actuator/integrationgraph
 actuator/prometheus
 actuator/trace
 prometheus/
+prometheus.yml
 www.zip
 index.php~
 adm/  
@@ -227,6 +229,7 @@ admins.php
 admins/  
 apache-default/phpmyadmin/
 api-docs/
+docs/
 api/
 api/apidocs
 api/schema/
@@ -392,6 +395,7 @@ global.asax
 globes_admin/  
 graphiql/
 graphql/
+voyager/
 haproxy
 hpwebjetadmin/  
 humans.txt
@@ -1014,3 +1018,8 @@ META-INF/
 META-INF/context.xml
 .DS_Store
 admin/
+phpredisadmin/
+redis/
+grafana
+grafana/api/health
+grafana/metrics

@@ -1,0 +1,11 @@
+properties
+xml
+yml
+yaml
+conf
+json
+do
+action
+jsf
+htm
+html
