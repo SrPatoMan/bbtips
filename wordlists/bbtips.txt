@@ -754,6 +754,8 @@ status/
 storage/*.key
 storage/logs/laravel.log
 sub-login/
+support/
+osticket/
 support_login/  
 swagger-ui.html
 swagger-ui.json
