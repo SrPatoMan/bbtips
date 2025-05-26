@@ -5,3 +5,6 @@ page_id
 page
 pages
 SiteID
+offset
+limit
+pageSize
