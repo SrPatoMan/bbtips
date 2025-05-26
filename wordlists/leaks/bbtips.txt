@@ -1019,6 +1019,8 @@ WEB-INF/classes/
 META-INF/
 META-INF/context.xml
 .DS_Store
+usermgm/
+usermgmt/
 admin/
 phpredisadmin/
 redis/
