@@ -1028,3 +1028,5 @@ grafana
 grafana/api/health
 grafana/metrics
 welcome.do
+portal/
+api/usermgm
