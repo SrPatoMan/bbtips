@@ -106,7 +106,10 @@ target/
 build/
 .mvn/
 .gradle/
+api/actuator/
 actuator/
+actuato%72
+actuator%2572
 actuator/info
 actuator/auditevents
 actuator/aws
