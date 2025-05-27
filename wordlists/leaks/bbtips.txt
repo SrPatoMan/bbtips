@@ -1030,3 +1030,4 @@ grafana/metrics
 welcome.do
 portal/
 api/usermgm
+.json
