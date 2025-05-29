@@ -1034,3 +1034,4 @@ api/usermgm
 osd
 osd.xml
 opensearch.xml
+opensearchdescription.xml
