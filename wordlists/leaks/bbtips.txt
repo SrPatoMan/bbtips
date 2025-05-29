@@ -1033,3 +1033,4 @@ api/usermgm
 .json
 osd
 osd.xml
+opensearch.xml
