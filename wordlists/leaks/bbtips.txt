@@ -1031,3 +1031,5 @@ welcome.do
 portal/
 api/usermgm
 .json
+osd
+osd.xml
