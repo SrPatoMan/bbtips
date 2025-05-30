@@ -981,7 +981,7 @@ xprober.php
 info/
 v1/info
 SOGo
-metrics
+metrics/
 analytics/
 launch.json
 download/
@@ -1035,3 +1035,7 @@ osd
 osd.xml
 opensearch.xml
 opensearchdescription.xml
+api/metrics
+api/v1/metrics
+api/v2/metrics
+api/v3/metrics
