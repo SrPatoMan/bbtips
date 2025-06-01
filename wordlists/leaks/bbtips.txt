@@ -1039,3 +1039,5 @@ api/metrics
 api/v1/metrics
 api/v2/metrics
 api/v3/metrics
+tinymce/
+tinymce/tinymce.min.js
