@@ -482,6 +482,10 @@ nginx.conf.d
 nginx/logs/error.log
 nginx_status
 node_modules
+node/
+node/1
+node/2
+node/100
 npm-debug.log
 old/
 openapi.json
