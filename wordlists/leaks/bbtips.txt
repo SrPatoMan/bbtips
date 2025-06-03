@@ -1041,3 +1041,7 @@ api/v2/metrics
 api/v3/metrics
 tinymce/
 tinymce/tinymce.min.js
+debug/pprof/
+debug/pprof/heap
+debug/pprof/profile
+debug/pprof/goroutine
