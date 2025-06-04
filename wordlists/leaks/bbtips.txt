@@ -1049,3 +1049,4 @@ debug/pprof/
 debug/pprof/heap
 debug/pprof/profile
 debug/pprof/goroutine
+hangfire/
