@@ -62,6 +62,7 @@ $
 ~
 ÷
 %
+%%
 °
 if
 for
@@ -69,4 +70,10 @@ in
 foreach
 switch (x)
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+<%
+%>
+${x}
+${
+ping
+
 
