@@ -2,6 +2,32 @@
 -- 
 -- -
 ;--
+<
+>
+">
+<!--
+!
+?
+<?
+=
+==
+===
+=== 'test
+true
+false
+0
+1
+undefined
+NaN
+null
+nil
+import
+require(
+const
+var
+let
+val
+int
 #
 //
 /*
