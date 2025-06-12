@@ -50,6 +50,12 @@ int
 '
 ,
 .
+..
+../
+..\
+..%5C
+..%2f
+%2f
 ->
 ::
 ^
@@ -64,15 +70,9 @@ $
 %
 %%
 °
-if
-for
-in
-foreach
-switch (x)
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 <%
 %>
 ${x}
 ${
 $(
-ping
