@@ -1,15 +1,19 @@
 ###### BROWSER EXTENSION TO DO BUG BOUNTY / PENTESTING ######
 
+Essentials:
+
 1- Wappalyzer
 2- FoxyProxy
-3- EditThisCookie
-4- LinkGopher
-5- DotGit
-6- Shodan
-7- Trufflehog
-8- FindSomething
+3- Firefox Multi-Account Containers
+
+4- EditThisCookie
+5- LinkGopher
+6- DotGit
+7- Shodan
+8- Trufflehog
+9- FindSomething
 
 
 *** Only Chrome ***
 
-1- Save All Resources
+10- Save All Resources
