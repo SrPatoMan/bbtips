@@ -1057,3 +1057,4 @@ hangfire/
 info.php
 test.php
 test
+internal
