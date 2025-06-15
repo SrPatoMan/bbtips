@@ -1054,3 +1054,5 @@ soap/
 axis/
 axoem_hs?wsdl
 hangfire/
+info.php
+test.php
