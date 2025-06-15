@@ -108,3 +108,6 @@ ${{}}
 %00
 \N{}
 \N{DOLLAR SIGN}
+<br>
+<h1>manul<%2fh1>
+<script><%2fscript>
