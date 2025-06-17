@@ -1058,3 +1058,5 @@ info.php
 test.php
 test
 internal
+50x.html
+app.js
