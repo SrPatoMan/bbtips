@@ -1060,6 +1060,7 @@ test
 internal
 50x.html
 app.js
+storage/
 storage/users.csv
 storage/orders.csv
 storage/transactions.csv
