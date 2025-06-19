@@ -1060,3 +1060,12 @@ test
 internal
 50x.html
 app.js
+storage/users.csv
+storage/orders.csv
+storage/transactions.csv
+storage/reports.csv
+storage/customers.csv
+storage/backups/users_backup.csv
+storage/tables/profiles.csv
+storage/tables/roles.csv
+storage/tables/invoices.csv
