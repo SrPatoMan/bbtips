@@ -1070,3 +1070,4 @@ storage/backups/users_backup.csv
 storage/tables/profiles.csv
 storage/tables/roles.csv
 storage/tables/invoices.csv
+error
