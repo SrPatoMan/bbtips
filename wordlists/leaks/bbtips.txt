@@ -1071,3 +1071,6 @@ storage/tables/profiles.csv
 storage/tables/roles.csv
 storage/tables/invoices.csv
 error
+api/v1/swagger/ui/index.html
+api/v2/swagger/ui/index.html
+api/v3/swagger/ui/index.html
