@@ -1079,3 +1079,7 @@ pom.xml
 requirements.txt
 kubernetes
 kubealarms
+cgi.cgi/horde/test.php
+horde/test.php
+imp/horde/test.php
+cgi.cgi/gH.cgi
