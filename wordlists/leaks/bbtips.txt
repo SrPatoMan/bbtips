@@ -1070,3 +1070,7 @@ yonetim.html
 yonetim.php  
 .zsh_history
 .zshrc
+admin/addproduct/
+addproduct/
+admin/edit_product/
+edit_product/
