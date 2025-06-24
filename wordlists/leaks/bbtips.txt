@@ -1077,3 +1077,5 @@ edit_product/
 build.gradle
 pom.xml
 requirements.txt
+kubernetes
+kubealarms
