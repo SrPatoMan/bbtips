@@ -1074,3 +1074,6 @@ admin/addproduct/
 addproduct/
 admin/edit_product/
 edit_product/
+build.gradle
+pom.xml
+requirements.txt
