@@ -1085,3 +1085,4 @@ imp/horde/test.php
 cgi.cgi/gH.cgi
 subscription
 subscriptions
+files/
