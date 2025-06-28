@@ -877,7 +877,7 @@ sql.sql
 sshadmin/  
 ss_vms_admin_sm/
 staradmin/  
-status/
+status
 storage/
 storage/backups/users_backup.csv
 storage/customers.csv
@@ -1088,3 +1088,6 @@ subscriptions
 files/
 go.mod
 go.main
+report/front.php
+report/admin.php
+gto
