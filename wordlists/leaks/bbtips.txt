@@ -402,6 +402,7 @@ Homestead.yaml
 horde/
 hpwebjetadmin/  
 .htaccess
+_.htaccess
 .htaccess.bak
 .htpasswd
 .htpasswd.bak
@@ -842,6 +843,7 @@ Server.html
 server-info/
 Server.php  
 server/rest/services/Utilities/Geometry/GeometryServer/generalize
+server-status
 server-status/
 serviceAccountCredentials.json
 service.cnf
@@ -1091,3 +1093,8 @@ go.main
 report/front.php
 report/admin.php
 gto
+version.ini
+desktop.ini
+_desktop.ini
+reports/
+version.properties
