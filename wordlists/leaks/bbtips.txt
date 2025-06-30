@@ -243,6 +243,7 @@ configuration.json
 configurations.xml
 configuration.xml
 config.yaml
+config.yml
 config.zip
 connectionstrings.config
 console/
@@ -1098,3 +1099,8 @@ desktop.ini
 _desktop.ini
 reports/
 version.properties
+config_dev.yml
+config_test.yml
+config_prod.yml
+installer
+installer.yml
