@@ -1104,3 +1104,5 @@ config_test.yml
 config_prod.yml
 installer
 installer.yml
+sitemap-index.xml
+pem
