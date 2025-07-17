@@ -1109,3 +1109,5 @@ sitemap-index.xml
 pem
 cpanel/forms/.env
 manifest.json
+stats/prometheus
+stats
