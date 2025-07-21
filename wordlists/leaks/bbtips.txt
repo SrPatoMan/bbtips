@@ -1111,3 +1111,5 @@ cpanel/forms/.env
 manifest.json
 stats/prometheus
 stats
+export/
+export/inc/config.inc
