@@ -29,7 +29,9 @@ application.yml
 bootstrap.yml
 logback.xml
 logback-spring.xml
+log4j.xml
 log4j2.xml
+log4j.properties
 application.log
 camel/routes
 camel/route-info
