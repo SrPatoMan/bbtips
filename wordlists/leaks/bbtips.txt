@@ -363,6 +363,7 @@ __firebase/
 _firebase/
 firebase/
 firebaseConfig
+firebaseConfig.js
 __firebase/init.js
 __/firebase/init.json
 formslogin/  
@@ -1116,3 +1117,12 @@ export/inc/config.inc
 i18n.json
 employee
 employees
+api-schema.json
+flow.json
+rules.json
+pricing.json
+businessRules.js
+businessRules.json
+.yarnrc
+local.settings.json
+.dockerenv
