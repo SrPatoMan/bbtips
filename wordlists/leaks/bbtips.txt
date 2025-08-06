@@ -119,6 +119,8 @@ AdminTools/
 analytics/
 apache-default/phpmyadmin/
 api/
+_api/
+__api/
 api/apidocs
 api-docs/
 apidocs/
@@ -1126,3 +1128,12 @@ businessRules.json
 .yarnrc
 local.settings.json
 .dockerenv
+_admin
+_login
+_file/
+_file/1
+_file/2
+_file/3
+_file/100
+_file/350
+_files/
