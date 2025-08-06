@@ -1129,6 +1129,7 @@ businessRules.json
 local.settings.json
 .dockerenv
 _admin
+_admin/_login
 _login
 _file/
 _file/1
