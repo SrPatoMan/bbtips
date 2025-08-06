@@ -416,6 +416,7 @@ inc
 include
 includes
 indexes/
+index.php
 index.php~
 Indy_admin/  
 info/
@@ -846,6 +847,7 @@ server_admin_small/
 Server.asp  
 Server.html  
 server-info/
+server.php
 Server.php  
 server/rest/services/Utilities/Geometry/GeometryServer/generalize
 server-status
@@ -1000,6 +1002,7 @@ webadmin.html
 webadmin.php  
 webadmin.properties
 web/binary/
+web/
 web.cfg
 web.conf
 web.config
@@ -1138,3 +1141,8 @@ _file/3
 _file/100
 _file/350
 _files/
+dav/
+webdav
+webdav-admin/
+filemanager/
+documents/
