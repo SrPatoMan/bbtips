@@ -1147,3 +1147,6 @@ webdav-admin/
 filemanager/
 documents/
 Dockerfile
+deployment.yaml
+master-deployment.yaml
+service.yaml
