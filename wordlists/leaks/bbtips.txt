@@ -1146,3 +1146,4 @@ webdav
 webdav-admin/
 filemanager/
 documents/
+Dockerfile
