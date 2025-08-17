@@ -1150,3 +1150,5 @@ Dockerfile
 deployment.yaml
 master-deployment.yaml
 service.yaml
+app/config.js
+app/config.json
