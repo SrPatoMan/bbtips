@@ -330,6 +330,7 @@ dev_w0
 directadmin/  
 dir-login/  
 docker-compose.yml
+docker-compose.yaml
 docs/
 documentation/
 Documentation/
@@ -344,6 +345,7 @@ Elmah.axd
 .env
 .ENV
 .env.backup
+.env.production
 .env/config
 env/.config
 environment.js
@@ -1152,3 +1154,9 @@ master-deployment.yaml
 service.yaml
 app/config.js
 app/config.json
+database.json
+firebase.json
+api_keys.json
+secrets.json
+google-services.json
+service-worker.js
