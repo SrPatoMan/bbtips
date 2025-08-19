@@ -1160,3 +1160,15 @@ api_keys.json
 secrets.json
 google-services.json
 service-worker.js
+karma.conf
+karma.conf.js
+karma.conf.coffee
+karma.conf.ts
+.config/karma.conf.js
+.config/karma.conf.coffee
+.config/karma.conf.ts
+angular.json
+tsconfig.json
+karma-test-shim.js
+src/
+coverage/
