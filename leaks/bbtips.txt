@@ -1174,3 +1174,6 @@ src/
 coverage/
 _config.json
 env.json
+static/
+media/
+static/sitemap.xml
