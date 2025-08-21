@@ -1177,3 +1177,4 @@ env.json
 static/
 media/
 static/sitemap.xml
+site_info
