@@ -1172,3 +1172,5 @@ tsconfig.json
 karma-test-shim.js
 src/
 coverage/
+_config.json
+env.json
